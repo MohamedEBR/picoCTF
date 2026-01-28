@@ -6,7 +6,7 @@ Each folder corresponds to a specific challenge and includes:
 - A detailed writeup explaining my thought process and solution
 
 ## Goals
-- Document my learning process in Capture The Flag (CTF) competitions  
+- Document my learning process in Capture The Flag (CTF) 
 - Share working exploits, scripts, and explanations  
 - Track my progress as I practice cybersecurity skills  
 
